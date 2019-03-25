@@ -482,6 +482,15 @@ button:focus,
     }
 
 /*-------------------
+ * Publications
+ *-------------------*/
+
+.publications {
+    text-indent: -10px;
+    margin-left: 20px
+    }
+
+/*-------------------
  * Contact
  *-------------------*/
 
